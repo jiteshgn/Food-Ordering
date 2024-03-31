@@ -4,7 +4,8 @@ This is a Next.js 14 Food Ordering Project. The following technologies are used 
 <li>MongoDB</li>  
 <li>Amazon Web Services (AWS)</li>
 <li>Stripe</li>
-<li>Google Authentication</li></ol>
+<li>Google Authentication</li>
+<li>Typescript</li></ol>
 
 There are two types of users:<br/>
 
