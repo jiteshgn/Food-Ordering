@@ -1,7 +1,8 @@
 This is a Next.js 14 Food Ordering Project. The following technologies are used to build it.<br/>
 <ol><li>Next.js</li>
 <li>React</li>
-<li>MongoDB</li>
+<li>MongoDB</li>  
+<li>Amazon Web Services (AWS)</li>
 <li>Stripe</li>
 <li>Google Authentication</li></ol>
 
