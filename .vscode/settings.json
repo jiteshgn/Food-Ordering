@@ -1,0 +1,5 @@
+{
+    "javascript.referencesCodeLens.enabled": false,
+    "editor.parameterHints.enabled": false,
+    "editor.codeLens": false
+}
